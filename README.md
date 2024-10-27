@@ -1,4 +1,4 @@
-# Shodan Email Searcher without ApiKey
+# IntelX searcher with ApiKey
 
 > **With this Python tool, you can search in the IntelX database for results. The tool includes the ApiKey**
 
